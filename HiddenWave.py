@@ -1,6 +1,3 @@
-# Created BY Athrva Deshmukh
-# https://github.com/athrvadeshmukh
-
 import os
 import wave
 import argparse

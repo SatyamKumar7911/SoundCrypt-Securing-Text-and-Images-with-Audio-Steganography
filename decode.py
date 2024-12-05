@@ -1,5 +1,3 @@
-# Created by Athrva Deshmukh
-# https://github.com/athrvadeshmukh
 import hashlib
 import os.path
 import numpy as np
