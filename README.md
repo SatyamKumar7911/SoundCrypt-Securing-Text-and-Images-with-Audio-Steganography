@@ -1,4 +1,4 @@
-#SoundCrypt: Securing Text and Images with Audio Steganography
+# SoundCrypt: Securing Text and Images with Audio Steganography
 
 
 SoundCrypt is an innovative open-source project designed to enhance the security of sensitive information by embedding it into audio files. Leveraging advanced steganographic techniques and cryptographic methods, SoundCrypt provides a robust solution for hiding and extracting messages within various media formats. This project is an excellent opportunity for developers and enthusiasts to contribute to a meaningful tool, enhancing its usability and functionality.
